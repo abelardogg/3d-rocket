@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /archivosformulario/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /js/
+#Begin Attracta SEO Tools Sitemap. Do not remove
+sitemap: http://cdn.attracta.com/sitemap/5578493.xml.gz
+#End Attracta SEO Tools Sitemap. Do not remove
